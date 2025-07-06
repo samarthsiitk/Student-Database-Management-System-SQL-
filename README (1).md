@@ -9,7 +9,7 @@ Database Tables used in our SQL localhost Queries to make these table structures
 ### How to Use:
 1. Clone git repositry by typing this on terminal
    ```bash
-   git clone https://github.com/Digiiiii/SQL-Database-Management.git
+   git clone https://github.com/samarthsiitk/Student-Database-Management-System-SQL-.git
    ```
    
 2.Create a database of name "college" in your local SQL Server
